@@ -7,3 +7,5 @@ echo aa > readme.txt
 git add readme.txt
 
 git commit -m "commit readme.txt"
+git status
+git diff
