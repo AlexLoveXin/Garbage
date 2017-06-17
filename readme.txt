@@ -9,3 +9,6 @@ git add readme.txt
 git commit -m "commit readme.txt"
 git status
 git diff
+git clone https://github.com/AlexLoveXin/Garbage.git
+git push -u origin master
+git remote add origin https://github.com/AlexLoveXin/Garbage.git
